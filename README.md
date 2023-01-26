@@ -1,4 +1,4 @@
-# create PersionStreetCat_Datasets
+# create PersionStreetCar_Datasets
 
 a Web Scraper which is save car images from Bama.ir.
 for download image categorized by 'Models' run this command:
